@@ -3,6 +3,7 @@
 from collections import deque
 
 def solution(numbers, target):
+    # 2 <= len(numbers) <= 20; O(N^2)
     answer = 0
     n = 2 ** len(numbers)
     op = [0 for _ in range(len(numbers))]
