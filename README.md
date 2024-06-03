@@ -16,3 +16,7 @@
 
 ## 2ptr
 [G5 부분합](https://github.com/mobis-sw/usz/blob/main/boj1806.py)  
+[S3 수열](https://github.com/mobis-sw/usz/blob/main/boj2559.py)  
+
+## 구현
+[B1 색종이](https://github.com/mobis-sw/usz/blob/main/boj10163.py)  
