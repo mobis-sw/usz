@@ -13,6 +13,7 @@
 [Lv2 무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)  
 [G5 보물섬](https://github.com/mobis-sw/usz/blob/main/boj2589.py)  
 [G4 맥주 마시면서 걸어가기](https://github.com/mobis-sw/usz/blob/main/boj9205.py)  
+[G5 공주님을 구해라!](https://github.com/mobis-sw/usz/blob/main/boj17836.py)  
 
 ## 2ptr
 [G5 부분합](https://github.com/mobis-sw/usz/blob/main/boj1806.py)  
